@@ -11,9 +11,9 @@ My core strengths are backend development with C# and .NET, along with modern fr
 I'm also deeply curious about new technologies and continuously learning to improve my skills and build better products every day.
 
 * 🌍  I'm based in Ho Chi Minh City
-* 🖥️  See my portfolio at [MyPortfolio](http://(s)tqa-portfolio.vercel.app/)
+* 🖥️  See my portfolio at [MyPortfolio](https://tqa-portfolio.vercel.app/)
 * ✉️  You can contact me at [tquocan04@gmail.com](mailto:tquocan04@gmail.com)
-* 🚀  I'm currently working on [HobleMail](http://(s)www.hoblemail.com/)
+* 🚀  I'm currently working on [HobleMail](https://www.hoblemail.com/)
 * 🧠  I'm currently learning React.js and Next.js while improving my backend skills
 * 👥  I'm looking to collaborate on interesting projects
 
