@@ -14,7 +14,7 @@ I'm also deeply curious about new technologies and continuously learning to impr
 * 🖥️  See my portfolio at [MyPortfolio](http://(s)tqa-portfolio.vercel.app/)
 * ✉️  You can contact me at [tquocan04@gmail.com](mailto:tquocan04@gmail.com)
 * 🚀  I'm currently working on [HobleMail](http://(s)www.hoblemail.com/)
-* 🧠  I'm currently learning React.js and Next.js while improving my backend skills.
+* 🧠  I'm currently learning React.js and Next.js while improving my backend skills
 * 👥  I'm looking to collaborate on interesting projects
 
 <p align="left">
@@ -26,10 +26,3 @@ I'm also deeply curious about new technologies and continuously learning to impr
 <p align="left"> <a href="https://www.github.com/tquocan04" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.dev.to/tqa_20" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" alt="DEV" title="DEV" /> </picture> </a> <a href="https://www.linkedin.com/in/quoc-an-tran" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
 <a href="https://www.github.com/tquocan04" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/tquocan04?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/tquocan04"><img src="https://github-readme-streak-stats.herokuapp.com/?user=tquocan04&stroke=64748b&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=64748b&currStreakLabel=0891b2&sideNums=64748b&sideLabels=64748b&dates=64748b&hide_border=true" /></a>
-
-<a href="https://github.com/tquocan04" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tquocan04&langs_count=10&title_color=0891b2&text_color=64748b&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
