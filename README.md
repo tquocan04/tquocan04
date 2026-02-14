@@ -13,7 +13,7 @@ I'm also deeply curious about new technologies and continuously learning to impr
 * 🌍  I'm based in Ho Chi Minh City
 * 🖥️  See my portfolio at [MyPortfolio](https://tqa-portfolio.vercel.app/)
 * ✉️  You can contact me at [tquocan04@gmail.com](mailto:tquocan04@gmail.com)
-* 🚀  I'm currently working on [HobleMail](https://www.hoblemail.com/)
+* 🚀  I'm currently working on [HobleMail](https://www.hoblemail.com/) & [ORDI AI](https://ordi.ai/)
 * 🧠  I'm currently learning React.js and Next.js while improving my backend skills
 * 👥  I'm looking to collaborate on interesting projects
 
