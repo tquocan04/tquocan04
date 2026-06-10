@@ -11,7 +11,7 @@ My core strengths are backend development with C# and .NET, along with modern fr
 I'm also deeply curious about new technologies and continuously learning to improve my skills and build better products every day.
 
 * 🌍  I'm based in Ho Chi Minh City
-* 🖥️  See my portfolio at [MyPortfolio](https://tqa-portfolio.vercel.app/)
+* 🖥️  See my portfolio at [MyPortfolio](https://portfolio.tqan20.site/)
 * ✉️  You can contact me at [tquocan04@gmail.com](mailto:tquocan04@gmail.com)
 * 🚀  I'm currently seeking a Backend/Full-Stack Engineer role
 * 🧠  I'm currently learning React.js and Next.js while improving my backend skills
